@@ -18,6 +18,8 @@ public class Main {
         nis.encenderMotor();
         nis.avanzar();
 
+        //Editado por martin
+
         System.out.println("Velocidad Máxima: " + nis.getdVelocidadMaxima());
 
 /*
